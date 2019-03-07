@@ -16,7 +16,7 @@ from homeassistant.components.media_player.const import (
     # SUPPORT_NEXT_TRACK, SUPPORT_PREVIOUS_TRACK,
     SUPPORT_SELECT_SOURCE, SUPPORT_TURN_OFF, SUPPORT_TURN_ON,
     SUPPORT_VOLUME_MUTE, SUPPORT_VOLUME_SET, SUPPORT_VOLUME_STEP,
-    SUPPORT_PLAY,SUPPORT_PAUSE)
+    SUPPORT_PLAY, SUPPORT_PAUSE)
 from homeassistant.const import (
     CONF_HOST, CONF_NAME, STATE_OFF, STATE_ON)
 from homeassistant.helpers import config_validation as cv
