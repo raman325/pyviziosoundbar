@@ -87,12 +87,6 @@ And using `Name` column from this list switch input
 pyviziosoundbar --ip={ip} input-set {name}
 ```
 
-Other options is to circle through all inputs
-
-```
-pyviziosoundbar --ip={ip} input-next
-``` 
-
 ### Control Media
 
 Play media 
@@ -106,18 +100,6 @@ Pause media
 ```
 pyviziosoundbar --ip={ip} pause
 ```
-
-Next track
-
-```
-pyviziosoundbar --ip={ip} next
-```
-
-Previous track
-
-```
-pyviziosoundbar --ip={ip} previous
-``` 
 
 ## Contribution
 - Thanks to @vkorn whose [pyvizio](https://github.com/vkorn/pyvizio) I used as a base. Most of the code is theirs, including most of this documentation
