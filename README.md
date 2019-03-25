@@ -1,3 +1,5 @@
+> This code is deprecated as [pyvizio](https://github.com/vkorn/pyvizio) has been updated to add sound bar support. Please use the latest pyvizio packages instead of this one.
+
 ## Description
 
 Simple cli and API implementation for Vizio SmartCast SoundBars. Mainly created for 
